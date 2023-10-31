@@ -1,0 +1,11 @@
+
+{
+    "name": "Giza Pyramids",
+    "location": "Egypt",
+    "is_world_wonder": true,
+    "city": {
+        "population": 9.54,
+        "unit": "Mil",
+        "top_attractions": ["Talaat Harb Square", "Nile River"]
+    }
+}
